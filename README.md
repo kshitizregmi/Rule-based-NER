@@ -11,7 +11,7 @@ $1 billion  |44 |54 |MONEY| Monetary values, including unit.|
 
 Here, the word Apple is the organization, the word UK is a geopolitical entity or country, and $1 billion is money. 
 
-# Rule based NER to extract person names in Harry Potter book
+# Rule based NER to extract person names in Harry Potter book using spaCy V3.2
 
 ## Data Source: 
 * [Harry_Potter1-4/J. K. Rowling - Harry Potter 1 - Sorcerer's Stone](http://www.pauladaunt.com/books/Children's/Harry_Potter1-4/J.%20K.%20Rowling%20-%20Harry%20Potter%201%20-%20Sorcerer's%20Stone.txt)
